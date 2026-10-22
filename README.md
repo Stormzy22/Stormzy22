@@ -8,32 +8,33 @@ I enjoy building applications, solving problems, and understanding how things wo
 
 My main focus is **C# / .NET, JavaScript, TypeScript, React, and Node.js**. I also work with databases like MongoDB and MySQL.
 
-I'm always exploring new technologies, improving my coding skills, and learning something new along the way.
+# Hey there! 👋
 
-### 🔧 What I'm working on
+I'm **Stormzy**, a Software Development student based in Antwerp, Belgium.
 
-- Building web applications and backend APIs.
-- Improving my knowledge of software architecture and clean code.
-- Exploring mathematics and its applications in computer science.
-- Preparing for a software development internship in 2027.
+I'm currently studying **Computer Programming at AP Hogeschool**.
 
-### 💻 Projects
+I enjoy building applications, solving problems, and understanding how things work. I'm curious about different areas of software development and always looking to expand my knowledge.
 
-**Y-Clone** — A fullstack web application built with Next.js and MongoDB.
+I enjoy experimenting with new tools, exploring different technologies, and challenging myself to learn something new.
 
-**Quiz Application** — An interactive React quiz using the Open Trivia Database API.
+### 🚀 What I'm currently up to
 
-**JWT Authentication** — A project focused on user authentication and token-based security.
+- 💻 Improving my programming skills and exploring new technologies.
+- 🧮 Learning more about mathematics and its applications in computer science.
+- 🛠️ Experimenting with different development tools and environments.
+- 📚 Always looking for new things to learn and build.
 
 ### ⚡ Fun Facts
 
 - 🚗 I'm passionate about cars and automotive technology.
-- 🧮 I enjoy mathematics and logical problem-solving.
-- 🐧 I like experimenting with Linux and development tools.
-- 💡 I believe there's always something new to learn.
+- 🏋️ I enjoy working out and staying active.
+- 🎯 Airsoft is one of my favorite hobbies.
+- 🐧 I like experimenting with Linux and different operating systems.
+- 🔬 I'm fascinated by new and emerging technologies.
 
 ### 📫 Let's Connect
 
-I'm always open to learning, collaborating, and connecting with other developers.
+I'm always open to learning, sharing ideas, and connecting with other developers.
 
 Feel free to explore my repositories!
