@@ -2,16 +2,6 @@
 
 I'm **Stormzy**, a Software Development student based in Antwerp, Belgium.
 
-I'm currently studying **Computer Programming at AP Hogeschool**, with a growing interest in backend and fullstack development.
-
-I enjoy building applications, solving problems, and understanding how things work behind the scenes.
-
-My main focus is **C# / .NET, JavaScript, TypeScript, React, and Node.js**. I also work with databases like MongoDB and MySQL.
-
-# Hey there! 👋
-
-I'm **Stormzy**, a Software Development student based in Antwerp, Belgium.
-
 I'm currently studying **Computer Programming at AP Hogeschool**.
 
 I enjoy building applications, solving problems, and understanding how things work. I'm curious about different areas of software development and always looking to expand my knowledge.
