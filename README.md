@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hi there! 👋
 
 I'm **Stormzy**, a Software Development student based in Antwerp, Belgium.
 
